@@ -1,2 +1,2 @@
 # PodcastProject
-My first 'Professional' project where I am exploring podcast data. 
+My first 'Professional' portfolio project where I am exploring podcast data. 
